@@ -15,7 +15,9 @@ AP Ir Dr Zool Hilmi Ismail is a research member of Malaysia-Japan International 
    
    <a href="https://github.com/dr-zool" target="_blank">
       <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-
+   <a href="https://scholar.google.com/citations?user=KKg6wuMAAAAJ&hl=en&oi=ao" target="_blank">
+      <img src=https://img.shields.io/badge/scholar-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+   </a>
 </div>
 
 
